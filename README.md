@@ -1,0 +1,4 @@
+-  Hi, I’m @AhmedMohammed4
+- I’m interested in coding and playing video games.
+- I’m currently learning Python through college courses and much self-learning.
+-  Fun fact: I skipped the last two years of high school!
