@@ -5,7 +5,7 @@ I am an undergraduate student at Elgin Community College and a high school senio
 
 ## Objective
 
-I am passionate about cybersecurity and driven to make a meaningful impact in the field. My goal is to leverage my technical skills and knowledge to transition into a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to safeguarding critical systems and data while advancing my expertise in cybersecurity.
+I am passionate about cybersecurity and driven to make a meaningful impact. I aim to leverage my technical skills and knowledge to transition into a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to safeguarding critical systems and data while advancing my expertise in cybersecurity.
 
 ## Skills
 
@@ -17,16 +17,6 @@ I am passionate about cybersecurity and driven to make a meaningful impact in th
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
 ### Endpoint
 <div>
